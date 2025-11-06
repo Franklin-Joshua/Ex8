@@ -1,4 +1,4 @@
-const API_URL = "https://ex8-mjqj.onrender.com/api/children";
+const API_URL = "https://ex8-ebwr.onrender.com/api/children";
 
 const form = document.getElementById("childForm");
 const listContainer = document.getElementById("childList");
@@ -46,3 +46,4 @@ async function deleteChild(id) {
 }
 
 fetchChildren();
+
